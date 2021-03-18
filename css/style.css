@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.block1 {
+    width: 100%;
+    height: 20vh;
+    background: darkgoldenrod;
+}
+.block2 {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+}
+.text {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.father1 {
+    width: 80%;
+    height: 80vh;
+    background: red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.father2 {
+    width: 20%;
+    background: grey;
+}
+.mini-box {
+    width: 33.3333%;
+    height: 50%;
+    /*border: 1px solid black;*/
+}
+.red {
+    background-color: red;
+}
+.aqua {
+    background: aqua;
+}
+.burlywood {
+    background: burlywood;
+}
